@@ -2,6 +2,8 @@
 
 A single-file, self-contained interactive dashboard for **AKIJ Mediplex** (Mirpur, Dhaka).
 
+**Live:** https://akij-mediplex-dashboard.vercel.app/
+
 ## Sections
 1. **Caravan Campaign Impact** — before/after analysis of gross billing around the 18 Aug 2026 activation.
 2. **Test & Procedure Breakdown** — revenue by category and test (Radiology, Lab, Others, Procedures).
